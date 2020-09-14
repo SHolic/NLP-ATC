@@ -179,8 +179,4 @@ pred = model.predict(data=[...])
 - v1.2.1: add model: han
 
 
-# Contact
-emails: baojs@craiditx.com
-
-
 
